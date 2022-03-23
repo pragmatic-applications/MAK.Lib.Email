@@ -1,10 +1,10 @@
 //=================================================================
-// Solution: MAK.Lib.Email
+// Solution: MAK.LibEmail
 //=================================================================
-// Programmer: Maurice Antonio Kelly @MAKMaurice
-// Description: A To Do App with undo, redo and database CRUD features.
-// ASP.NET Core 5.0
-// Date: 2021-11-15
-// Stop: 19:00
-// NuGet: <Version>0.0.0.3</Version>
+// Software Engineer: Maurice Antonio Kelly @MAKMaurice
+// Description: A .NET library used for sending emails.
+// Date: 2022-03-23
+// Stop Time: 19:00
+// NuGet Version: 0.0.0.4
+// Git Commit Message:
 //=================================================================
